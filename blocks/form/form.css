@@ -18,7 +18,7 @@
     --form-input-padding: 0.75rem 0.6rem;
     --form-input-font-size: 1rem;
     --form-input-disable-color: #ebebe4;
-    --form-input-border-size: 1px;
+    --form-input-border-size: 3px;
     --form-input-border-color: var(--border-color);
     --form-input-background-color: var(--background-color-primary);
     --form-paragraph-color: var(--label-color);
